@@ -1,0 +1,11 @@
+ID,parent_ID,name,descr
+1,,Fiction,Books that contain imaginary or made-up stories
+2,,Non-Fiction,Books based on factual information or real events
+3,1,Science Fiction,Stories based on futuristic concepts or advanced technology
+4,1,Fantasy,Books featuring magical or supernatural elements
+5,1,Adventure,Exciting tales of exploration and daring feats
+6,1,Mystery,Books centered around solving crimes or uncovering secrets
+7,2,History,Non-fiction accounts of past events
+8,2,Biography,Books detailing the life of an individual
+9,2,Science,Books explaining scientific concepts and discoveries
+10,2,Self-Help,Guides aimed at improving personal growth and life skills

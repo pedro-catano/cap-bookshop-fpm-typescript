@@ -1,0 +1,11 @@
+ID,title,descr,author_ID,genre_ID,stock,price,currency_code,createdAt,createdBy,modifiedAt,modifiedBy
+1,The Great Adventure,A thrilling journey of discovery,1,1,12,15.99,USD,2023-01-15,admin,2023-06-10,editor
+2,Mystic Waters,Exploring the mysteries of the deep sea,2,2,8,20.50,USD,2023-02-18,admin,2023-07-12,editor
+3,Code Breakers,The history of cryptography and its pioneers,3,3,10,25.00,USD,2023-03-10,admin,2023-08-05,editor
+4,Lands Unknown,A journey to undiscovered territories,4,1,5,18.75,USD,2023-04-02,admin,2023-09-14,editor
+5,The Last Horizon,A tale of survival in extreme conditions,5,4,20,14.99,USD,2023-05-20,admin,2023-10-01,editor
+6,Whispers of the Forest,Legends and stories of woodland creatures,6,5,15,12.49,USD,2023-06-25,admin,2023-10-20,editor
+7,Future Perfect,Exploring the possibilities of tomorrow,7,6,25,30.00,USD,2023-07-15,admin,2023-11-05,editor
+8,Historical Insights,A deep dive into forgotten histories,8,7,10,22.00,USD,2023-08-30,admin,2023-11-20,editor
+9,Cosmic Tales,Science fiction that goes beyond the stars,9,8,7,19.95,USD,2023-09-12,admin,2023-11-25,editor
+10,Urban Echoes,Stories from the heart of the city,10,9,30,10.00,USD,2023-10-10,admin,2023-11-26,editor
